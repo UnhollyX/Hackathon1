@@ -7,7 +7,7 @@ Often when deep-working professionals can sometimes go hours wihtout drinking wa
 This extension is designed to help anyone who spends hours focused on their computer have immersive and non boring notifications 
 that pop into their line of sight in a non intrusive yet notisable manner. 
 
--  Features : 
+**Features **
 
 -  CSS animated banners 
 -  Comical, chill and casual comments 
