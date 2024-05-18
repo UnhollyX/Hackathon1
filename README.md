@@ -9,12 +9,12 @@ that pop into their line of sight in a non intrusive yet notisable manner.
 
 -  Features : 
 
-CSS animated banners 
-Comical, chill and casual comments 
+-  CSS animated banners 
+-  Comical, chill and casual comments 
 
-Vision reminders 
-Hydration reminders 
-Stretch reminders
+-  Vision reminders 
+-  Hydration reminders 
+-  Stretch reminders
 
 
 
